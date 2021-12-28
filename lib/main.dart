@@ -4,7 +4,7 @@ void main() {
   runApp( MaterialApp(
     debugShowCheckedModeBanner: false,
     home: Scaffold(
-      backgroundColor: Colors.teal,
+      backgroundColor: Colors.blue,
       appBar: AppBar(
         backgroundColor: Colors.green,
         leading: Image(
